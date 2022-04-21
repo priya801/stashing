@@ -1,5 +1,7 @@
 1.Blue
-2. yellow
+2.
 3.white
 4.black
 5. brijal
+6. red
+7.skyblue:
